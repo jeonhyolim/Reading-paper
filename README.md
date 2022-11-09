@@ -5,3 +5,4 @@
 3. LSTM
 4. Fast text: Enriching Word Vectors with Subword Information
 5. SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing
+6. 언어모델에서 자연어 생성 전략(THE CURIOUS CASE OF NEURAL TEXT DeGENERATION)
