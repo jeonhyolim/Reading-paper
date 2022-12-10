@@ -1,5 +1,5 @@
 # reading-paper
-
+# 논문 정리: https://velog.io/@gyfla1512
 1. RCNN
 2. Transformer: Attetnion is all you need
 3. LSTM
