@@ -1,5 +1,5 @@
 # reading-paper
-## 논문 정리: https://velog.io/@gyfla1512
+## paper: https://velog.io/@gyfla1512
 1. Recurrent Convolutional Neural Networks for Text Classification(RCNN)
 2. Transformer: Attenion is all you need
 3. Fast text: Enriching Word Vectors with Subword Information
