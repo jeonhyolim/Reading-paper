@@ -1,4 +1,4 @@
-# reading-paper
+# Reading-paper
 ## paper: https://velog.io/@gyfla1512
 1. Recurrent Convolutional Neural Networks for Text Classification(RCNN)
 2. Transformer: Attenion is all you need
