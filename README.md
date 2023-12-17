@@ -7,3 +7,4 @@ Paper: https://velog.io/@gyfla1512
 5. THE CURIOUS CASE OF NEURAL TEXT DeGENERATION(언어모델에서의 자연어 생성 전략)
 6. Towards Ordinal Suicide Ideation Detection on Social Media
 7. LSTM
+8. Sequential Modelling of the Evolution of Word Representations for Semantic Change Detection (EMNLP, 2020, LAB-Seminar)
