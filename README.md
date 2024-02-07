@@ -8,3 +8,4 @@ Paper: https://velog.io/@gyfla1512
 6. Towards Ordinal Suicide Ideation Detection on Social Media
 7. LSTM
 8. Sequential Modelling of the Evolution of Word Representations for Semantic Change Detection (EMNLP, 2020, LAB-Seminar)
+9. SPEAKER RECOGNITION FROM RAW WAVEFORM WITH SINCNET (IEEE, 2018, ASR Study)
